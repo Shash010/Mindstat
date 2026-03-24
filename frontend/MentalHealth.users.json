@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6816c8d2183080d25f968596"
+  },
+  "email": "manasi@gmail.com",
+  "password": "scrypt:32768:8:1$qThlD6TliwriiWT9$905748842d50a4f125b43fd8605f0c72460984a3650e67706918262a9b7bc8b839d40e4b10552c5dc207d34b96e77ac125241662e8538e6d8b06d720db0485fd",
+  "name": "manasi"
+},
+{
+  "_id": {
+    "$oid": "6817941c4b009cd359c693d7"
+  },
+  "email": "spoorti@gmail.com",
+  "password": "scrypt:32768:8:1$jb6yrwWD2IYm7tYH$7e03a9386529297e5d2623bf09969cf0fe9f513e62433d1f10d22e5d40ae3d5b1d097525889a9941ffbee0c3fe9a7bf72c01afbebb2ed2db50e9a9e11bb1677c",
+  "name": "spoorti"
+},
+{
+  "_id": {
+    "$oid": "6817944f4b009cd359c693e6"
+  },
+  "email": "anki@gmail.com",
+  "password": "scrypt:32768:8:1$7XpNzpPz9crrFDYd$19db7e97bf2100d8e3746442cd8fe5915e549576ef9d77f2c1b0689b9b26bdb78bf20f4b9f7548ebfd349e891d3baadc50601c2249cbc5efa142322a61301ae2",
+  "name": "ankita"
+},
+{
+  "_id": {
+    "$oid": "681794a64b009cd359c693f5"
+  },
+  "email": "shanky@gmail.com",
+  "password": "scrypt:32768:8:1$eV2VriwrD1pkD6Bl$d4d8036c481e02334590053f5e79244552bde987006cb2f6a0f65f3a9491565c576795922a0d2c7f368f9bd62ea67992e2099472fa67146ae2fbc3614e3b5606",
+  "name": "shanky"
+},
+{
+  "_id": {
+    "$oid": "681795054b009cd359c69404"
+  },
+  "email": "rujul@gmail.com",
+  "password": "scrypt:32768:8:1$pNvrZACR80KSZq6E$41ceb50e2c7647cd1adce762de9cbf8f154d8c59a948a5f041a296b51ea5c3019f052b92acdc051c12bcf73d443be7f82646843754ecd4b15eb61fd6ee371b03",
+  "name": "rujul"
+},
+{
+  "_id": {
+    "$oid": "681795554b009cd359c69413"
+  },
+  "email": "nes@gmail.com",
+  "password": "scrypt:32768:8:1$9SlRagnrEZXgVijA$7b147ffd46961860e122f2d152c5efa967042fa38b5cbe341aa91a1c72188b1e8985bf601ed3a952f09c9a1bbd788a791fbef68e8527ebba63d0b054125da780",
+  "name": "nesar"
+},
+{
+  "_id": {
+    "$oid": "6817b3c4b2a4577f949abedd"
+  },
+  "email": "dbapura@iu.edu",
+  "password": "scrypt:32768:8:1$a273Qm6KrTb99e1l$0124da49ff227dd08907cf8371621ef085beb76b67e5f318518ea164df42b936c9ed36a4d430db291a332913f6f7e66647f5bc47d97a69495b00a9a9615c9ac5",
+  "name": "Deeksha"
+}]

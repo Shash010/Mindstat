@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "_id",
+    "care_options",
+    "Changes_Habits",
+    "Coping_Struggles",
+    "Country",
+    "Days_Indoors",
+    "family_history",
+    "Gender",
+    "Growing_Stress",
+    "Mental_Health_History",
+    "mental_health_interview",
+    "Month",
+    "Mood_Swings",
+    "Mood_Swings_Encoded",
+    "Occupation",
+    "self_employed",
+    "Social_Weakness",
+    "Timestamp",
+    "treatment",
+    "Work_Interest",
+    "Year"
+  ],
+  "properties": {
+    "_id": {
+      "$ref": "#/$defs/ObjectId"
+    },
+    "care_options": {
+      "type": "string"
+    },
+    "Changes_Habits": {
+      "type": "string"
+    },
+    "Coping_Struggles": {
+      "type": "string"
+    },
+    "Country": {
+      "type": "string"
+    },
+    "Days_Indoors": {
+      "type": "string"
+    },
+    "family_history": {
+      "type": "string"
+    },
+    "Gender": {
+      "type": "string"
+    },
+    "Growing_Stress": {
+      "type": "string"
+    },
+    "Mental_Health_History": {
+      "type": "string"
+    },
+    "mental_health_interview": {
+      "type": "string"
+    },
+    "Month": {
+      "type": "integer"
+    },
+    "Mood_Swings": {
+      "type": "string"
+    },
+    "Mood_Swings_Encoded": {
+      "type": "integer"
+    },
+    "Occupation": {
+      "type": "string"
+    },
+    "self_employed": {
+      "type": "string"
+    },
+    "Social_Weakness": {
+      "type": "string"
+    },
+    "Timestamp": {
+      "type": "string"
+    },
+    "treatment": {
+      "type": "string"
+    },
+    "Work_Interest": {
+      "type": "string"
+    },
+    "Year": {
+      "type": "integer"
+    }
+  },
+  "$defs": {
+    "ObjectId": {
+      "type": "object",
+      "properties": {
+        "$oid": {
+          "type": "string",
+          "pattern": "^[0-9a-fA-F]{24}$"
+        }
+      },
+      "required": [
+        "$oid"
+      ],
+      "additionalProperties": false
+    }
+  }
+}

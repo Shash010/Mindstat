@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6816ace8314f434066edc33e"
+  },
+  "name": "National Suicide Prevention Lifeline",
+  "type": "Helpline",
+  "country": "United States",
+  "contact": "1-800-273-8255",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "6816ad15314f434066edc341"
+  },
+  "name": "Samaritans UK",
+  "type": "Helpline",
+  "country": "United Kingdom",
+  "contact": "116 123",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "6816ad36314f434066edc344"
+  },
+  "name": "Lifeline Australia",
+  "type": "Helpline",
+  "country": "Australia",
+  "contact": "13 11 14",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "6816ad5c314f434066edc347"
+  },
+  "name": "iCall (TISS Mumbai)",
+  "type": "Helpline",
+  "country": "India",
+  "contact": "+91 9152987821",
+  "available": true
+}]

@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "68151ad251a156c14adcd32f"
+  },
+  "Gender": "Female",
+  "Occupation": "Business",
+  "self_employed": "Yes",
+  "family_history": "No",
+  "treatment": "Yes",
+  "Days_Indoors": "31-60 days",
+  "Growing_Stress": "Maybe",
+  "Changes_Habits": "Maybe",
+  "Mental_Health_History": "Yes",
+  "Mood_Swings": "High",
+  "Coping_Struggles": "No",
+  "Work_Interest": "No",
+  "Social_Weakness": "Yes",
+  "mental_health_interview": "Yes",
+  "care_options": "Yes",
+  "Mood_Swings_Encoded": "3",
+  "Year": "2025",
+  "Month": "9",
+  "Country": "Italy",
+  "user": "nes@gmail.com",
+  "id": "68151ad251a156c14adcd32f"
+}]
